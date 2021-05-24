@@ -1,0 +1,9 @@
+{
+    "type": "postgres",
+    "url": "postgres://xgrundkp:O5UgZHbmYZv7tY5TaTZ5YK6YgrHhPK9g@batyr.db.elephantsql.com/xgrundkp",
+    "synchronize": true,
+    "logging": true,
+    "entities": [
+        "src/Models/*.js"
+    ]
+}
